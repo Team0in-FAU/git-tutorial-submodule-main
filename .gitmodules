@@ -1,0 +1,6 @@
+[submodule "names"]
+	path = names
+	url = https://github.com/Team0in-FAU/git-tutorial-submodule-names.git
+[submodule "contacts"]
+	path = contacts
+	url = https://github.com/Team0in-FAU/git-tutorial-submodule-contacts.git
